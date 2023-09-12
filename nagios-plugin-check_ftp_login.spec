@@ -7,7 +7,6 @@ Release:	1
 License:	GPL v2+
 Group:		Networking
 Source0:	check_ftp_login.py
-# Source0-md5:	821dbac0cc911e8250e41d7cca56cc62
 Source1:	%{plugin}.cfg
 Requires:	python3-nagiosplugin
 BuildArch:	noarch
